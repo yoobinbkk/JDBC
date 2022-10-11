@@ -26,7 +26,6 @@ public class InsertEmp_b {
 			int monSal = 10000;
 			String jjob = "IT";
 			
-			// 월급이 10000 이상인 사원들 삭제
 			String sql = "Insert Into emp(empno, ename, sal, job) Values (5555, ?, ?, ?)";
 
 			// 4. SQL 전송 객체
