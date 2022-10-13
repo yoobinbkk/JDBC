@@ -6,7 +6,7 @@ import java.util.*;
 public class InfoModelImp1 implements InfoModel {
 
 	final static String DRIVER 	= "oracle.jdbc.driver.OracleDriver";
-	final static String URL 	= "jdbc:oracle:thin:@192.168.0.57:1521:xe";
+	final static String URL 	= "jdbc:oracle:thin:@192.168.88.1:1521:xe";
 	final static String USER 	= "scott";
 	final static String PASS 	= "tiger";
 
